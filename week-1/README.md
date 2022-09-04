@@ -6,9 +6,6 @@ Bir namespace tanımlanırken genellikle URL veya URN verilir. Böyle yaparak bu
   
 
 ## Örnekler
-
-## Kullanım/Örnekler
-
 ```xml
 <persons xmlns="http://www.godoro.com/test">
 	<person no="122">
