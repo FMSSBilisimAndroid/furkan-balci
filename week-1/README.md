@@ -26,6 +26,17 @@ Bir namespace tanımlanırken genellikle URL veya URN verilir. Böyle yaparak bu
 	</person>
 </persons>
 
+<ps:persons xmlns:ps="http://www.godoro.com/test">
+	<ps:person no="122">
+		<ps:name>Albert</ps:name>
+		<ps:surname>Einstein</ps:surname>
+	</ps:person>
+	<ps:person no="122">
+		<ps:name>Orhan</ps:name>
+		<ps:surname>Gencebay</ps:surname>
+	</ps:person>
+</ps:persons>
+
 ```
 
   
