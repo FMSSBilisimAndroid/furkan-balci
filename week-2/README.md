@@ -7,6 +7,7 @@ Verilen örnek bir ios cihaza uyumlu ve px ile dp değerleri birbirleriyle aynı
 - Data Class
 - Handler & Manager
 
+## Resimler
 - ![](https://i.ibb.co/y5HW0Tx/Screenshot-2.png)
 - ![](https://i.ibb.co/tz54KGJ/Screenshot-3.png)
 - ![](https://i.ibb.co/4j0MRPY/Screenshot-4.png)
