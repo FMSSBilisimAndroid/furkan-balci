@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">week-2-assigment</string>
+    <string name="join_now_button">JOIN NOW</string>
+    <string name="login_button_name">LOGIN</string>
+    <string name="enter_your_username_password"><![CDATA[Enter Your Username & Password]]></string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="create_naccount">Create\nAccount :)</string>
+</resources>

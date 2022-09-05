@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:id="@+id/ellipse_1"
+        android:layout_width="460dp"
+        android:layout_height="460dp"
+        android:layout_marginLeft="31dp"
+        android:layout_marginTop="-106dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/elips"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/ellipse_2"
+        android:layout_width="460dp"
+        android:layout_height="460dp"
+        android:layout_marginStart="147dp"
+        android:layout_marginTop="214dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/elips"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="74dp"
+        android:layout_marginEnd="74dp"
+        android:layout_marginBottom="48dp"
+        android:background="@drawable/button"
+        android:fontFamily="@font/inder"
+        android:text="@string/join_now_button"
+        android:textSize="36sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="166dp"
+        android:fontFamily="@font/inter"
+        android:text="Grow Together"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/let_s_get_s" />
+
+    <TextView
+        android:id="@+id/let_s_get_s"
+        android:layout_width="342dp"
+        android:layout_height="190dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginBottom="46dp"
+        android:fontFamily="@font/inter_black"
+        android:gravity="top|left"
+        android:lineSpacingExtra="-16sp"
+        android:text="Let's Started"
+        android:textColor="@color/black"
+        android:textSize="75sp"
+        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="252dp"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/women_2"
+        app:layout_constraintBottom_toTopOf="@+id/imageView5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="175dp"
+        android:layout_marginBottom="132dp"
+        android:src="@drawable/woman_1"
+        app:layout_constraintBottom_toTopOf="@+id/let_s_get_s"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
