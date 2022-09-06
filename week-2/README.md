@@ -38,7 +38,7 @@ println(newList)
 ```bash
 kotlin.sequences.FilteringSequence@a2ce542e
 ```
-Gördüğünüz gibi bir liste döndürmek yerine bir obje döndürdü. **Eğer ki bu listeyi ihtiyacımız olan yerde kullanmak isteseydik ```newList.toList()``` yazmamız yeterli olacaktı.
+Gördüğünüz gibi bir liste döndürmek yerine bir obje döndürdü. **Eğer ki bu listeyi ihtiyacımız olan yerde kullanmak isteseydik ```newList.toList()``` yazmamız yeterli olacaktı.**
 
 ##
 İki farklı sisteminden avantajları ve dezavantajları vardır. Yapmak istediğimiz işleme göre ikisinden birini tercih edebiliriz. 
