@@ -6,4 +6,5 @@ This repo was created for FMSS.
 
 
 ## Hafta 2
-- [UI Giydirme](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-2)
+- [UI Giydirme](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-2/ui)
+- [Lazy & Eager Filters](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-2)
