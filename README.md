@@ -12,5 +12,5 @@ This repo was created for FMSS.
 
 ## Hafta 3
 - [Save Instance](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-3/save-instance)
-- Graph ödevi yolda...
+- [Graph](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-3/graph)
 
