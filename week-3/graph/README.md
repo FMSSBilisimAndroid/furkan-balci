@@ -11,8 +11,7 @@ override fun onBackPressed() {
 - Bir önceki fragment eğer ki kayıt olma fragmenti ise, geri tuşuna tıklandığı zaman uygulamanın kapanmasıydı. 
 
 ### Graph Yapısı
-![](https://ibb.co/rZFL36F)
+![](https://i.ibb.co/pL1PbVL/graph.png)
 
 ### Resimler
-![](https://ibb.co/887DZKK)
-![](https://ibb.co/FDhWmZD)
+![](https://i.ibb.co/2jWLStW/splash.png) ![](https://i.ibb.co/DKRD2VV/login.png)
