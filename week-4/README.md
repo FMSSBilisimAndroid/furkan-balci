@@ -1,7 +1,7 @@
 ## Açıklama
 API üzerinden alınan mars verilerini işleyip, recycler view ile listeliyoruz ve tıklanınca bir detay ekranına gönderiyoruz.
 
-```gradle
+```
 https://mars.udacity.com/realestate
 ```
 Verileri üstte bulunan adresten alıyoruz.
