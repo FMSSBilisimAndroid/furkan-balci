@@ -2,6 +2,7 @@
 This repo was created for FMSS.
 
 ## Hafta 1
+- [Zar Atma Oyunu](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-1/dice-to-dice)
 - [Namespace nedir?](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-1)
 
 
