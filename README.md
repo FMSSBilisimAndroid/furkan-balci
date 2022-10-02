@@ -15,3 +15,6 @@ This repo was created for FMSS.
 - [Save Instance](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-3/save-instance)
 - [Graph](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-3/graph)
 
+
+## Hafta 4
+- [Recycler View & Retrofit](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-4)
