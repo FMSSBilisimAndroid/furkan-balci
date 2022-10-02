@@ -18,3 +18,11 @@ This repo was created for FMSS.
 
 ## Hafta 4
 - [Recycler View & Retrofit](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-4)
+
+
+## Hafta 5
+- [Netflix Clone](https://github.com/FMSSBilisimAndroid/grup-3-netflix-clone)
+
+
+## Hafta 6
+- [Coroutine](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-6)
