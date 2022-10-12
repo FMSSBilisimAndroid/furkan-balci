@@ -26,3 +26,7 @@ This repo was created for FMSS.
 
 ## Hafta 6
 - [Coroutine](https://github.com/FMSSBilisimAndroid/furkan-balci/tree/main/week-6)
+
+
+## Son Hafta
+- [Bitirme Projesi - Travel Guide](https://github.com/furkanbalci0/TravelGuide)
